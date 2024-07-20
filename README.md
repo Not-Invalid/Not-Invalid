@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Not-Invalid&label=Profile%20views&color=0e75b6&style=flat" alt="Not-Invalid" /> </p>
 
-- 🔭 I’m currently working on **own framework**
-
 - 🌱 I’m currently learning **laravel**
 
 - 👯 I’m looking to collaborate on **laravel projects**
