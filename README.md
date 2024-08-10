@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **rafflitz99@gmail.com**
 
-- 🖥️ All of my projects are available at **https://rffli.com/#projects**
+- 🌐 Check more details about me at **https://rffli.com**
 
 
 <h3 align="left">Connect with me:</h3>
